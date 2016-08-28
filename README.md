@@ -6,25 +6,18 @@ This is a handful of coding from my personal website.
 INDEX.HTML:
 
 <!DOCTYPE html>
-
 <html>
-
 <style>
-
 img{
-
-  height: 100%;
-  
-  width: 30%;
+height: 100%;
+width: 30%;
 
 
   
 }
-
 </style>
 
 <body>
-
 <link href="/style.css" rel="stylesheet" type="text/css" media="all">
 <div id="wrap">
 
